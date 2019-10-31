@@ -26,3 +26,4 @@ const convertHTML = (str) =>{
 }
 
 module.exports = convertHTML;
+console.log(convertHTML('what > us'));
